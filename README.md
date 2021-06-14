@@ -1,5 +1,5 @@
 # Awesome Programming Podcast List
-A list of tech podcasts that might make you interested in listening to them!
+A list of programming podcasts that might make you interested in listening to them!
 Please help me add more and get them more organized.
 
 ### Front-end Development
